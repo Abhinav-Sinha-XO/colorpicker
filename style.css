@@ -1,0 +1,33 @@
+h1{
+  display: flex;
+  justify-content: center;
+  display: none;
+  
+}
+
+button{
+  display: block;
+  margin: auto;
+  background-color: royalblue;
+  padding: 10px;
+  border-radius: 50px;
+  
+  
+  
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  
+  align-items: center;
+  margin: 20px auto;
+  border-radius: 20px;
+  min-height: 100vh;
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+
